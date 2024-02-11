@@ -26,7 +26,7 @@ To run the Band Name Generator locally:
 3. Start the server with `npm start`.
 4. Open `http://localhost:3000` in your browser.
 
-## Usage
+### Usage
 
 1. Enter a URL in the input field on the homepage.
 2. Click the "Generate" button.
