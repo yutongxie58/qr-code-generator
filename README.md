@@ -20,11 +20,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Install dependencies.
-4. Start the server.
-5. Open your browser and navigate to `http://localhost:3000` to see the app in action.
+To run the Band Name Generator locally:
+1. Clone the repository to your local machine.
+2. Install dependencies with `npm install`.
+3. Start the server with `npm start`.
+4. Open `http://localhost:3000` in your browser.
 
 ## Usage
 
