@@ -1,4 +1,4 @@
-# QR Code Generator Web App
+# QR Code Generator
 
 This project is a web-based QR Code generator that allows users to enter a URL and receive a QR Code corresponding to that URL. It's built using Node.js, Express, EJS for templating, and the `qr-image` package for generating QR codes.
 
@@ -34,4 +34,4 @@ These instructions will get you a copy of the project up and running on your loc
 4. Use the "Download QR Code" option to save the QR Code image.
 
 ## Screenshots
-<img src="https://i.postimg.cc/hthNRQZz/simon-game-screenshot.png" width="800" alt="Dicee Game Screenshot">
+<img src="https://i.postimg.cc/pVFfN6J5/qr-code-generator-1.png" width="800" alt="QR Code Generator Screenshot">
